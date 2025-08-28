@@ -1,6 +1,8 @@
 🚦 AI-Powered Traffic & Pedestrian Analytics 🚦
 Built a Traffic Analytics System that detects, tracks, and estimates vehicle speed from CCTV — no sensors needed !
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/37c8580b-96cb-4528-a432-7abebdcb2729" />
+
 🔹 Objective
  I built a Computer Vision system that:
  ✅ Detects vehicles & people in CCTV/video footage.
